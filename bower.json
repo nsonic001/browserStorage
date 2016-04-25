@@ -1,5 +1,5 @@
 {
-  "name": "browser-storage",
+  "name": "bowerStorage",
   "authors": [
     "Nilesh Soni"
   ],
@@ -20,12 +20,13 @@
     "storage"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/nsonic001/browserStorage",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "private": true
 }
