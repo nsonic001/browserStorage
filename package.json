@@ -1,0 +1,28 @@
+{
+  "name": "browser-storage",
+  "version": "1.0.0",
+  "description": "Browser Storage 2.0.0",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "load-grunt-tasks": "^3.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserstorage",
+    "browser-storage",
+    "storage",
+    "localStorage",
+    "expiry",
+    "storage"
+  ],
+  "author": "Nilesh Soni",
+  "license": "MIT"
+}

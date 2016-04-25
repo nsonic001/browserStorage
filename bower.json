@@ -1,0 +1,31 @@
+{
+  "name": "browser-storage",
+  "authors": [
+    "Nilesh Soni"
+  ],
+  "description": "This module uses browser's localStorage and cookie to store data in localStorage with expiry",
+  "main": "browser-storage.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "yui"
+  ],
+  "keywords": [
+    "browserstorage",
+    "browser-storage",
+    "storage",
+    "localStorage",
+    "expiry",
+    "storage"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
